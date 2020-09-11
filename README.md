@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 ## [![taggaddaaaa's header](https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/header github.jpg)](https://www.sabinecaizergues.fr)
 
 <p align='center'>
-<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/linkedin.png?raw=true"></a>
+<a href="https://dev.to/taggaddaaaa"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/taggaddaaaa"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/sabine.caizergues"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/taggaddaaaa"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/sabinecaizergues/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
