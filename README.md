@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+## [![taggaddaaaa's header](https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/header github.jpg)](https://www.sabinecaizergues.fr)
+
+<p align='center'>
+<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/linkedin.png?raw=true"></a>
+</p>
