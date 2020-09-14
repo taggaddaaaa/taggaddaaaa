@@ -1,6 +1,6 @@
-### 👋🏼 I am Sabine Caizergues 👩🏼‍💻
+### 👋🏼 Hello, I am Sabine 👩🏼‍💻
 
-[![taggaddaaaa's header](https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/header%20github.jpg)](https://www.sabinecaizergues.fr)
+[![taggaddaaaa's header](https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/header-github.png)](https://www.sabinecaizergues.fr)
 
 <p align='center'>
 <a href="https://instagram.com/sabine.caizergues"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icons/instagram.jpg"></a>&nbsp;&nbsp;
@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/sabinecaizergues/"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icons/linkedin.png"></a>
 </p>
 
-💬  I am a french digital strategist based on Montpellier. I help entreprenors to improve their visibilty and grow their business.
+💬  I am a [french digital strategist](https://www.sabinecaizergues.fr) based on Montpellier. I help entreprenors to improve their visibilty and grow their business.
 
 🐈  Fun fact: Like cats, I've got 9 lives : I am hairdresser, saler, paramedics, flight attendant, owner of an ice cream shop, webdeveloper... without having bachelor graduate.
 
