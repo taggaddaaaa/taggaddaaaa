@@ -3,12 +3,8 @@
 [![taggaddaaaa's header](https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/header%20github.jpg)](https://www.sabinecaizergues.fr)
 
 <p align='center'>
-<!--
-<a href="https://dev.to/taggaddaaaa"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icons/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/taggaddaaaa"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icons/twitter.png"></a>&nbsp;&nbsp;
--->
 <a href="https://instagram.com/sabine.caizergues"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icons/instagram.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/taggaddaaaa"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icons/buy-me-a-coffee.png"></a>
+<a href="https://www.buymeacoffee.com/taggaddaaaa"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icons/buy-me-a-coffee.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sabinecaizergues/"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icons/linkedin.png"></a>
 </p>
 
@@ -19,6 +15,6 @@
 🔨  I’m currently working on to create the new website of the architecte Célia Argilés Baró that will be soon available !
 
 🎤  I love learning and teaching others:
-I gave free tips on how to use Instagram for businesses on my [Instagram Account](https://instagram.com/sabine.caizergues) and one conference on Google Atelier Numerique which attracted more than 70 people: 20 tools to improve your IG account. 
+I gave free tips on how to use Instagram for businesses on my [Instagram Account](https://instagram.com/sabine.caizergues) and one conference on Google Atelier Numerique which attracted more than 70 people: [20 tools to improve your IG account](https://docs.google.com/presentation/d/1AeTaC2L5vjSFTwcC-nwNZI7_xGv_S--eZc8h6o7UmwQ/edit?usp=sharing). 
 
-👩🏼‍🤝‍👩🏿  As a woman entrepreneur, I am also an ambassador of #SheMeansBusiness facebook program for the south of France.
+👩🏼‍🤝‍👩🏿  As a woman entrepreneur, I am also an ambassador of [#SheMeansBusiness facebook program](https://shemeansbusiness.fb.com/fr/) for the south of France.
