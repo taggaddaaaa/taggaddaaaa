@@ -13,14 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
-[![taggaddaaaa's header](https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/header github.jpg)](https://www.sabinecaizergues.fr)
+[![taggaddaaaa's header](https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/header%20github.jpg)](https://www.sabinecaizergues.fr)
 
 <p align='center'>
-<a href="https://dev.to/taggaddaaaa"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icons/dev.png></a>&nbsp;&nbsp;
-<a href="https://twitter.com/taggaddaaaa"><img height="30" src="images/icons/twitter.png></a>&nbsp;&nbsp;
-<a href="https://instagram.com/sabine.caizergues"><img height="30" src="images/icons/instagram.jpg></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/taggaddaaaa"><img height="30" src="images/icons/by-me-a-coffee.png></a>
-<a href="https://www.linkedin.com/in/sabinecaizergues/"><img height="30" src="images/icons/linkedin.png></a>
+<a href="https://dev.to/taggaddaaaa"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icons/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/taggaddaaaa"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icons/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/sabine.caizergues"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icons/instagram.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/taggaddaaaa"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icons/buy-me-a-coffee.png"></a>
+<a href="https://www.linkedin.com/in/sabinecaizergues/"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icons/linkedin.png"></a>
 </p>
