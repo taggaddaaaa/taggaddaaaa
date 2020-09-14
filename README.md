@@ -1,16 +1,5 @@
-### Hello, I am Sabine Caizergues 👋
-<!--
-Here are some ideas to get you started:
+### 👋🏼 I am Sabine Caizergues 👩🏼‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![taggaddaaaa's header](https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/header%20github.jpg)](https://www.sabinecaizergues.fr)
 
 <p align='center'>
@@ -22,10 +11,14 @@ Here are some ideas to get you started:
 <a href="https://www.buymeacoffee.com/taggaddaaaa"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icons/buy-me-a-coffee.png"></a>
 <a href="https://www.linkedin.com/in/sabinecaizergues/"><img height="30" src="https://github.com/taggaddaaaa/taggaddaaaa/blob/master/images/icons/linkedin.png"></a>
 </p>
-💬 I am a french digital strategist based on Montpellier. I help entreprenors to improve their visibilty and grow their business.
 
-🔭 I’m currently working on to create the new website of the architecte Célia Argilés Baró that will be soon available !
+💬  I am a french digital strategist based on Montpellier. I help entreprenors to improve their visibilty and grow their business.
 
-⚡ Fun fact: Like cats I've got 9 lives : I am hairdresser, saler, paramedics, flight attendant, owner of an ice cream shop, webdeveloper... without having bachelor graduate.
+🐈  Fun fact: Like cats, I've got 9 lives : I am hairdresser, saler, paramedics, flight attendant, owner of an ice cream shop, webdeveloper... without having bachelor graduate.
 
-I love learning and teaching others. I gave a conference on Google Atelier Numerique about Instagram in 2020 and I am an ambassador of #sheMeansBusiness facebook program for the south of France.
+🔨  I’m currently working on to create the new website of the architecte Célia Argilés Baró that will be soon available !
+
+🎤  I love learning and teaching others:
+I gave free tips on how to use Instagram for businesses on my [Instagram Account](https://instagram.com/sabine.caizergues) and one conference on Google Atelier Numerique which attracted more than 70 people: 20 tools to improve your IG account. 
+
+👩🏼‍🤝‍👩🏿  As a woman entrepreneur, I am also an ambassador of #SheMeansBusiness facebook program for the south of France.
